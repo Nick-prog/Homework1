@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 381C-A620
+
+ Directory of C:\Users\Nicko\Documents\GitProjects\HW1
+
+02/25/2020  11:18 AM    <DIR>          .
+02/25/2020  11:18 AM    <DIR>          ..
+02/18/2020  05:10 PM                10 random1.txt
+02/18/2020  05:11 PM                10 random2.txt
+02/25/2020  11:18 AM                 0 random3.txt
+               3 File(s)             20 bytes
+               2 Dir(s)  122,738,089,984 bytes free
